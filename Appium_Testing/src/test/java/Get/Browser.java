@@ -14,8 +14,10 @@ public class Browser {
 		
 		driver.manage().deleteAllCookies();
 		driver.get("https://www.google.co.in/");
+		String title = driver.getTitle();
 		
-		
+		System.out.println(title);
+		driver.close();
 		
 	}
 
