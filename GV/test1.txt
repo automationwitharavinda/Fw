@@ -1,7 +1,0 @@
-my 1st commit in this file
- 
-
-My 2 nd commit
- 
-My 2nd commit in this file on git UI
- 
